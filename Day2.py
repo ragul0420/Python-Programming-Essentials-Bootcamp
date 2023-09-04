@@ -1,0 +1,5 @@
+a = float(input("Enter the first number (a): "))
+b = float(input("Enter the second number (b): "))
+print("1. Floor Division (a // b):", a // b)
+print("2. a power b (a ** b):", a ** b)
+print("3. Are a and b equal:", a == b)
